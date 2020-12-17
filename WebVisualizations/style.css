@@ -22,14 +22,21 @@ a.lat {
 	background-color: white; 
 } 
 
-.body-main {
-    background-color:rgb(247, 247, 247);
+.body-grey {
+    background-color: blue;
+    padding: 5%;
 }
-.sections {
-    background-color:white;
-    padding:1%
+.body-white {
+    background-color:red;
+    padding:5%
 }
 
-p {
-    float: right
+.col_pad {
+    padding-right: 3%;
+}
+
+h1 {
+    color:lightseagreen;
+    font-size: 14px;
+    font-weight:bold;
 }
