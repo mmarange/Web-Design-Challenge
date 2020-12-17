@@ -1,7 +1,7 @@
 a.lat {
     padding: 1%;
-    background-color: aquamarine;
-   color: white;
+    background-color: lightseagreen;
+    color: white;
     font-weight:bold;
     font-family: 'Times New Roman', Times, serif; 
     font-size: medium;  
@@ -23,20 +23,34 @@ a.lat {
 } 
 
 .body-grey {
-    background-color: blue;
-    padding: 5%;
+    background-color:grey;
+    padding: 2%;
 }
 .body-white {
-    background-color:red;
-    padding:5%
+    background-color: white;
+    padding:3%
 }
 
-.col_pad {
-    padding-right: 3%;
+.col_pad1 {
+    padding: 3%;
+    text-align: justify;
+}
+
+.col_pad2 {
+    padding: 6%;
+    text-align: justify;
 }
 
 h1 {
     color:lightseagreen;
-    font-size: 14px;
+    font-size: 24px;
     font-weight:bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    color:lightseagreen;
+    font-size: 18px;
+    font-weight:bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
