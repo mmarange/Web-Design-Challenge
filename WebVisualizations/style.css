@@ -1,0 +1,35 @@
+a.lat {
+    padding: 1%;
+    background-color: aquamarine;
+   color: white;
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: medium;  
+}
+
+.to-right {
+    float: right;
+  }
+
+  /* Modify brand and text color  
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+	color: green; 
+} */
+
+/* Modify the backgorund color */ 
+.navbar-custom { 
+	background-color: white; 
+} 
+
+.body-main {
+    background-color:rgb(247, 247, 247);
+}
+.sections {
+    background-color:white;
+    padding:1%
+}
+
+p {
+    float: right
+}
