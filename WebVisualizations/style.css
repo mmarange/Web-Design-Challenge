@@ -7,6 +7,14 @@ a.lat {
     font-size: medium;  
 }
 
+.tog {
+    color: white;
+}
+
+.togbar {
+      background-color: lightseagreen;
+  }
+
 .to-right {
     float: right;
   }
@@ -18,13 +26,11 @@ a.lat {
 } */
 
 /* Modify the backgorund color */ 
-.navbar-custom { 
-	background-color: white; 
-} 
+
 
 .body-grey {
-    background-color:grey;
-    padding: 2%;
+    background-color:rgb(241, 241, 241);)
+    padding: 0;
 }
 .body-white {
     background-color: white;
@@ -34,11 +40,13 @@ a.lat {
 .col_pad1 {
     padding: 3%;
     text-align: justify;
+    margin-top: 3%;
 }
 
 .col_pad2 {
-    padding: 6%;
+    padding: 3%;
     text-align: justify;
+    margin-top: 13.5%;
 }
 
 h1 {
@@ -50,7 +58,17 @@ h1 {
 
 h2 {
     color:lightseagreen;
-    font-size: 18px;
+    font-size: 20px;
     font-weight:bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+@media only screen and (max-width: 743px) {
+    .togbar {
+      background: lightseagreen;
+    }
+    
+    .body-grey {
+        background: lightseagreen;
+      }
+      
