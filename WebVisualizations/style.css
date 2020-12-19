@@ -29,12 +29,26 @@ a.lat {
 
 
 .body-grey {
-    background-color:rgb(241, 241, 241);)
+    background-color:rgb(241, 241, 241);
     padding: 0;
 }
+
 .body-white {
     background-color: white;
     padding:3%
+}
+
+.body-grey2 {
+    background-color:rgb(241, 241, 241);
+    padding:3%;
+   
+}
+
+.body-white2 {
+    background-color: white;
+    padding:3%;
+    margin-top: 1%;
+    
 }
 
 .col_pad1 {
@@ -61,6 +75,10 @@ h2 {
     font-size: 20px;
     font-weight:bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h4 { font-size: 10px;
+
 }
 
 @media only screen and (max-width: 743px) {
