@@ -80,13 +80,30 @@ h2 {
 h4 { font-size: 10px;
 
 }
+.togbar {
+    background:white;
+  }
 
-@media only screen and (max-width: 743px) {
+.aligntog{
+    margin-left: 70%;
+  }
+
+img{width:100%;
+         
+  }  
+    
+@media (max-width: 990px) {
     .togbar {
       background: lightseagreen;
     }
     
-    .body-grey {
-        background: lightseagreen;
-      }
-      
+    
+
+    .aligntog{
+          margin-left: 40%;
+          
+    }
+
+    img{width:20%;
+         
+    }  
