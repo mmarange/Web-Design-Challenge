@@ -34,9 +34,9 @@ Large screen:
 
 
 
-#### <a id="navigation-menu"></a>Navigation menu
+#### Small Screen
 
-Large screen:
+
 ![nav menu large screen](Images/Small_screen.PNG)
 
 
